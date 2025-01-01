@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-> Project Practice: https://roadmap.sh/projects/number-guessing-game
+> Project Practice: https://roadmap.sh/projects/number-guessing-game/solutions?u=64d3087faa497d7fa5190888
 
 This is a simple number guessing game built in Go. The game generates a random number within a specified range, and the player needs to guess the number within a limited number of attempts.
 
@@ -22,8 +22,8 @@ This is a simple number guessing game built in Go. The game generates a random n
 ## How to Run
 
 1. Make sure you have Go installed on your system.
-2. Clone this repository: `git clone <repository-url>`
-3. Navigate to the project directory: `cd <project-directory>`
+2. Clone this repository: `https://github.com/justasteri/PRACTICE-num-guess-game`
+3. Navigate to the project directory: `cd PRACTICE-num-guess-game`
 4. Build the game: `go build`
 5. Run the game: `./<executable-name>`
 
